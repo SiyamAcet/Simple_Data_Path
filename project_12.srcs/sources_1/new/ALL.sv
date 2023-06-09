@@ -20,11 +20,9 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-// Projeyi ilk teslim ederken zip dosyas?na s?k??t?rd???m ve ad?n? de?i?tirdi?im için kaynak kod dosyalar?n içerisisindeki kodlar kaybolmu?
-// Bunu sabah 11 saatinde fark ettim ve projemi düzenleyip tekrar gönderdim. Dersimizin hocas?na sordu?umda sorun te?kil etmeyece?ini söyledi.
+// Projeyi ilk teslim ederken zip dosyas?na s?k??t?rd???m ve ad?n? de?i?tirdi?im iÃ§in kaynak kod dosyalar?n iÃ§erisisindeki kodlar kaybolmu?
+// Bunu sabah 11 saatinde fark ettim ve projemi dÃ¼zenleyip tekrar gÃ¶nderdim. Dersimizin hocas?na sordu?umda sorun te?kil etmeyece?ini sÃ¶yledi.
 //Siyam Acet
-//Ceren Alya??z
-//Instruction diye adland?rd???m?z modul rergister file dosyass?d?r asl?nda zaman?m?z k?s?tl? oldu?u için ve ad?n? de?i?tirirsek program?n çal??mayaca??n? dü?ündü?ümüz için ad?n? de?i?tirmedik.
 
 module ALL(
 
