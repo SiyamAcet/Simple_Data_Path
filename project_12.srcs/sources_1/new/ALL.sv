@@ -22,7 +22,6 @@
 
 // Projeyi ilk teslim ederken zip dosyas?na s?k??t?rd???m ve ad?n? de?i?tirdi?im için kaynak kod dosyalar?n içerisisindeki kodlar kaybolmu?
 // Bunu sabah 11 saatinde fark ettim ve projemi düzenleyip tekrar gönderdim. Dersimizin hocas?na sordu?umda sorun te?kil etmeyece?ini söyledi.
-//Siyam Acet
 
 module ALL(
 
